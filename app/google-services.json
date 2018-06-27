@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576939612946",
+    "project_id": "nearby-restaurant-193117"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576939612946:android:cf42d077dca12fba",
+        "android_client_info": {
+          "package_name": "amrat.nearbyrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576939612946-dnsvv7big7e923b0crpc14ocgjqhl2kk.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "576939612946-i1mv2btce7rn4l7ulk314l6om2sl5lt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amrat.nearbyrestaurant",
+            "certificate_hash": "630900dab9a57c88183ba3c5eaea0e25e35ca7c9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBj522qDF5MfDg_zHtx7IlwLMamyYPt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
